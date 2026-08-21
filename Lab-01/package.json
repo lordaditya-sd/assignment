@@ -1,0 +1,12 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "/*\r In this practical, I learned the basics of Node.js by installing and configuring it on my system. I verified the installation using Node.js and NPM commands, created my first Node.js project, and initialized it using npm. I also wrote simple programs using console.log(), worked with variables and different data types, and understood the key differences between Browser JavaScript and Node.js. Finally, I learned how to organize a Node.js project and upload it to GitHub for version control and submission.\r */",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
