@@ -1,0 +1,13 @@
+{
+    "name": "lab-07",
+    "version": "1.0.0",
+    "description": "Lab 07 - Implementing EventEmitter (Event-Driven Programming)",
+    "main": "error-handling.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs"
+  }
